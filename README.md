@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![imgirish18's GitHub | Stats](https://stats.quine.sh/imgirish18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=imgirish18)
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Javascript, C++, Python, Ruby],
+  tools: [React, Node, MySQL, Bootstrap],
+ challenge: "Aspiring developer who build his dream with his knowledge of technology"
+}
+```
