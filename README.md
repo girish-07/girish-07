@@ -26,6 +26,10 @@ const Girish = {
 }
 ```
 
+[![Linkedin Badge](https://img.shields.io/badge/-Girish-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girish170902/)](https://www.linkedin.com/in/girish170902/)
+[![Instagram Badge](https://img.shields.io/badge/-@imgirish18-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/imgirish18/)](https://instagram.com/imgirish18)
+[![Gmail Badge](https://img.shields.io/badge/-Girish-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:girish.170902@gmail.com)](mailto:girish.170902@gmail.com)
+
 | <a href="https://github.com/girish-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-07&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Girish's github stats" /></a> | <a href="https://github.com/girish-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-07&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 
