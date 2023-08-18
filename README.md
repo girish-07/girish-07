@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-const thai = {
+const Girish = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, C++, Python, Ruby],
   tools: [React, Node, MySQL, Bootstrap],
  challenge: "Aspiring developer who build his dream with his knowledge of technology"
 }
 ```
+
+| <a href="https://github.com/girish-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Girish's github stats" /></a> | <a href="https://github.com/girish-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
