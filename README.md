@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Developers! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
@@ -32,6 +32,9 @@ const Girish = {
 
 | <a href="https://github.com/girish-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-07&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Girish's github stats" /></a> | <a href="https://github.com/girish-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-07&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<a href="https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=girish-07&theme=gotham&hide_border=false" /></a>
+
 
 <p align="left">
   <img
