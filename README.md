@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <!--
 **girish-07/girish-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +22,7 @@ const Girish = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, C++, Python, Ruby],
   tools: [React, Node, MySQL, Bootstrap],
- challenge: "Aspiring developer who build his dream with his knowledge of technology"
+ challenge: "Aspiring developer"
 }
 ```
 
