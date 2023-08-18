@@ -35,6 +35,10 @@ const Girish = {
 
 <a href="https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=girish-07&theme=gotham&hide_border=false" /></a>
 
+#### Let's have some fun
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 
 <p align="left">
   <img
