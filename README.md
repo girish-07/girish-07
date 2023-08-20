@@ -22,7 +22,7 @@ const Girish = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, C++, Python, Ruby],
   tools: [React, Node, MySQL, Bootstrap],
- challenge: "Aspiring developer"
+ challenge: "Develop my dream world with technology"
 }
 ```
 
